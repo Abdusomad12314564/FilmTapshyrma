@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d05c70c4-7ae5-4449-ad92-b3e36ed23fe4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Findable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Findable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sortable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sortable.java" afterDir="false" />
-    </list>
+    <list default="true" id="d05c70c4-7ae5-4449-ad92-b3e36ed23fe4" name="Changes" comment="film2tap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669992118590</updated>
     </task>
+    <task id="LOCAL-00001" summary="film2tap">
+      <created>1670236355690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670236355690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="film2tap" />
+    <option name="LAST_COMMIT_MESSAGE" value="film2tap" />
   </component>
 </project>
