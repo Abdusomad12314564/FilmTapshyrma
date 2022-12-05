@@ -59,7 +59,7 @@ public class Main {
                 case 6 ->{System.out.print("Filmdin maanisin jazynyz: "); movie.findMovieByDescription(new Scanner(System.in).nextLine(), movies);}
                 case 7 ->{System.out.print("Filmdegi rolun jazynyz: ");movie.findMovieByRole(new Scanner(System.in).nextLine(),movies);}
                 case 8 ->{System.err.println("\n========Filmderdi aty boyuncha sorttop berdi========");movies.sort(Movie.sortByName); System.out.println(movies);}
-                case 9 ->{System.err.println("\n========Filmderdi jyly boyuncha sorttop berdi======"); movies.sort(Movie.sortByYear); System.out.println(movies);}
+                case 9 ->{System.err.println("\n========Filmderdi jyly boyuncha sorttop berdi======="); movies.sort(Movie.sortByYear); System.out.println(movies);}
                 case 10 ->{System.err.println("\n========Filmderdi direktor boyuncha sorttop berdi======");movies.sort(Movie.sortByDirector);System.out.println(movies);}
                 default -> System.err.println("Tileke karshy myndai funksia jok!");
             }
